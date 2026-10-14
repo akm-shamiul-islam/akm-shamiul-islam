@@ -14,13 +14,13 @@
 </p> 
 -->
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=shamiul-anik&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul-anik" /> </h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=akm-shamiul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="akm-shamiul-islam" /> </h3>
 
 <p align="left"> <a href="https://twitter.com/shamiul_bd" target="blank"><img src="https://img.shields.io/twitter/follow/shamiul_bd?logo=twitter&style=for-the-badge" alt="shamiul_bd" /></a> </p>
 
 - 🔭 I’m currently working on a project for practicing Socket.io and updating my [Portfolio](https://akm-shamiul-islam.vercel.app) with latest version of Next.js, TailwindCSS, TypeScript and some other modern technologies. <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
 
-- 🌱 I’m currently learning **TypeScript, React Native and Socket.io**
+- 🌱 I’m currently learning **TypeScript, Laravel and Socket.io**
 
 - 👨‍💻 Portfolio [https://akm-shamiul-islam.vercel.app](https://akm-shamiul-islam.vercel.app)
 <!-- - 👨‍💻 Portfolio [https://shamiul.netlify.app](https://shamiul.netlify.app)  -->
